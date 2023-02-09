@@ -1,6 +1,6 @@
-# LAE-GAN with Algorithm
+# LCA-GAN with Algorithm
 
-## LAE-GAN-based Face Image Restoration for Low-light Age Estimation
+## LCA-GAN-based Face Image Restoration for Low-light Age Estimation
 
 ## Introduction
 
