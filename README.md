@@ -24,5 +24,5 @@ We propose a mask occluded facial image de-occlusion system with Generative Adve
 * Unbuntu 20.4
 
 ## Model weights (LCA-GAN and DEX)
-* [LCA-GAN with MORPH, and PAL database](https://drive.google.com/drive/folders/14l0EtfDaIeMeamQuoIRN6sPqp1-WLbTN?usp=sharing)
-* [DEX with MORPH, and PAL database](https://drive.google.com/drive/folders/1zGB3G2MUJftM4AYuncJU66n6QVXdomVD?usp=sharing)
+* [LCA-GAN with MORPH, and PAL database](https://drive.google.com/drive/folders/1PRyRfpB6-Im0-Jz5IEy2r-qqu5s-yg98?usp=share_link)
+* [DEX with MORPH, and PAL database](https://drive.google.com/drive/folders/1hpjOsNnYlJrmtLubXITAw8y3Z-10vWvC?usp=share_link)
