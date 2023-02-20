@@ -2,12 +2,12 @@
 
 **[1] MORPH database. Available online: https://ebill.uncw.edu/C20231_ustores/web/store_main.jsp?STOREID=4 (accessed on 17 May 2022)**
 <br/>
-**[2] MORPH database. [mask occluded images.](https://drive.google.com/drive/folders/1hpjOsNnYlJrmtLubXITAw8y3Z-10vWvC?usp=share_link)**
+**[2] MORPH database. [Mask occluded images.](https://drive.google.com/drive/folders/1hpjOsNnYlJrmtLubXITAw8y3Z-10vWvC?usp=share_link)**
 <br/>
 
 **[2] PAL database. Available online: http://agingmind.utdallas.edu/download-stimuli/face-database/ (accessed on 17 May 2022).**
 <br/>
-**[2] PAL database. [mask occluded images.](https://drive.google.com/drive/folders/1hpjOsNnYlJrmtLubXITAw8y3Z-10vWvC?usp=share_link)**
+**[2] PAL database. [Mask occluded images.](https://drive.google.com/drive/folders/1hpjOsNnYlJrmtLubXITAw8y3Z-10vWvC?usp=share_link)**
 <br/>
 
 ## Implementation
